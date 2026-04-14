@@ -1,0 +1,21 @@
+{
+  "name": "feishu-bitable-creator",
+  "version": "1.0.0",
+  "description": "飞书多维表格自动创建技能",
+  "main": "bitable-creator.js",
+  "scripts": {
+    "create": "node create-tables.js",
+    "test": "node -e \"const lib = require('./bitable-creator.js'); console.log('Library loaded successfully');\""
+  },
+  "keywords": [
+    "feishu",
+    "bitable",
+    "automation",
+    "openclaw-skill"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.0.0"
+  }
+}

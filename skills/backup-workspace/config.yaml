@@ -1,0 +1,6 @@
+# backup-workspace 配置
+base_url: https://codeup.aliyun.com/5f894ba41858a1721046757d/jala-group/openclaw
+username: openclaw-git
+password: "Jsli@RS928sl"
+branch: master
+backup_repo: agent-log.git
